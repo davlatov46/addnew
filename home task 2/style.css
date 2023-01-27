@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin : 0;
+}
+.contener {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    margin-top: 110px;
+    }
+img {
+    width: 110%;
+    opacity: 0.7;
+    border-radius: 3px;
+    margin-bottom: 25;
+}
+.zagalovok1 {
+   font-size: 22px;
+    text-align: left;
+    letter-spacing: 3px;
+    margin-bottom: 20px;
+    margin-top: 20;
+ 
+   font-weight:lighter;
+}
+.opisaniya {
+    text-align: center;
+    color: gray;
+    margin-bottom: 50px;
+    font-size: 14px;
+}
+.right {
+    width: 45%;
+    padding-left: 5%;
+}
+.left{
+    width: 45% ;
+   
+}
+.zagalovok{
+    text-align: center;
+padding-bottom: 60px;
+letter-spacing: 8px;
+font-weight: 5;
+padding-top: 15px;
+}
+.opisaniya{
+    text-align: left;
+}
